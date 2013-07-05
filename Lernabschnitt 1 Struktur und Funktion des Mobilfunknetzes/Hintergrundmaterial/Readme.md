@@ -4,7 +4,6 @@ In Deutschland wurde Mitte der 80er Jahre erstmals ein mobiles Netz – noch mit
 Die wichtigsten Bestandteile des Mobilfunknetzes sind:
 
 1. Die Mobile Station:
-
 Eine Mobile Station besteht aus einem Handy und einer SIM-Karte. SIM steht für Subscriber Identity Module. Die SIM-Karte ist ein kleiner Plastikchip, der ins Handy gelegt wird. Jede SIM-Karte hat einen eindeutigen Bezeichner, die so genannte International Mobile Subscriber Identity (IMSI). Die IMSI setzt sich aus verschiedenen Bestandteilen (Länder-Code, Anbieter-Code, Telefonnr.) zusammen und ist eine 15-stellige Kennungsnummer. Diese Kennungsnummer ermöglicht eine weltweite Identifizierung des Mobilfunkteilnehmers in dem von ihm genutzten Mobilfunknetz. Diese Identifizierung ist immer möglich und hängt nicht davon ab, in welchem Handy sich die SIM-Karte befindet. Zudem befindet sich sowohl die persönliche 4-stellige PIN (PIN= Personal Identity Number) als auch die 8-stellige PUK-Nummer (PUK= Personal Unblocking Key) auf der SIM-Karte und dient auch zur Identifizierung des Mobilfunkteilnehmers. Dies ist aber nur bei der Nutzung des Handys möglich. Des Weiteren hat der Mobilfunkteilnehmer auch die Möglichkeit ein persönliches Adressbuch oder auch wichtige SMS und MMS auf der SIM-Karte zu speiern. Dies ermöglicht dem Mobilfunkteilnehmer diese persönlichen Informationen und Daten in jedes neue Handy mitzunehmen.
 In der vorliegenden Unterrichtseinheit wird auf diese Details verzichtet. Hier dient die Telefonnummer als eindeutiger Identifizierer des Gesprächsteilnehmers.
 
