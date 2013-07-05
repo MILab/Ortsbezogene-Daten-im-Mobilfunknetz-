@@ -1,39 +1,42 @@
-# Beschreibung Interaktives Puzzle 
+# Beschreibung Lernabschnitt 1
+# Struktur und <funktion des Mobilfunknetzes
 
 
 ##  Was soll gelernt werden?
-   * Aufbau und Bestandteile des Mobilfunknetzes (vereinfachtes Schema)
-   * Verbindungsaufbau /Kommunikation zweier Mobiltelefone
-   * 
+   * Verstehen, wie das System Mobilfunk funktioniert und wie / welche Daten entstehen
+   * Bestandteile des Mobilfunknetzes kennenlernendas Verständnis, das zum Telefonieren mehr nötig ist, als nur 2 Telefone
    
 ## Wozu soll es (an dieser Stelle) gelernt werden?
-   * Erkenntnis, dass das Mobilfunknetz an zentraler Stelle wissen muss, an welcher Basissation die Handys angemeldet sind
-
+   * Grundlagen für anschließende Unterrichtseinheiten legen
+   * Verständnis für technische Gegenstände des alltäglichen Gebrauchsdie Angst vor Technik nehmen
+   * Hinterfragen von technischen Abläufen
+   * Abstrahieren lernenGrundlagen zur Sensibilisierung bzgl. Daten legen
 
 ## Hintergrundwissen 
-   *Netz etwas komplexer aufbabaut; hier Zentrale und Basisstationen vereinfacht
-
+   *Detailwissen über z.B.:alle Bestandteile, verschiedene Netzanbieter, verschiedene Größen der Funkzellen, verschiedenen Sendearten, "volle Bandbreite" entstehender Daten
 
 ## Vorasusetzungen (techn./ organisatorisch)
-   * OpenOffice oder LibreOffice Draw
-   * praktisch wäre das passende Video (hier bei youtube...)
+   * Komplexität des Themas reduzieren, Modell des Mobilfunknetzes vereinfachen und wichtigste Inhalte vermitteln(Abstrahieren)
 
 
 ## Benötigte Vorkenntnisse
-   * ggf aus dem Experiementen mit dem Handy: Handys kommunizieren nicht direkt, sondern über das Mobilfunknetz
-
+   * Generell was man mit einem Mobil-Gerät machen kannsonst kein Vorwissen nötig
 
 ## Einflussfaktoren
-   * Einige SuS kennen ggf überraschend viel
-   * ggf Unklar, welche Abschnitte des Puzzles wozu stehen
-
+   * Zeitfaktor
+   * Vorwissen
+   * Motivation
+   * Gruppengröße
+   * Platzangebot
+   * Alter
 
 ## Unterrichtsmethoden
-   * Video vorher / parallel/nachher zeigen
-   * Als Hilfe vorher Festnetz und Internet an die richtige Stelle platzieren
-   * Nicht am PC, sondern ausgedruckt und laminiert als Puzzleteile
+   * Gruppenarbeit (Puzzle -> graphisches Modell)
+   * Rollenspiel (Ralley -> aktives, handelndes Lernen, Erläuterung
+   * Frontalunterricht (Erklären, Erläutern)
+   * Medieneinsatz: Video
 
 
 ## Diagnose
-   * Unmittelbar: Puzzleteile richtig gelegt
-   * Im nachfolgenden Rollenspiel zeigt sich, ob Aufbau und Interaktiond er Elemente verstanden worden ist
+   * Ralley als Überprüfung des vorher Erarbeiteten Wissens und dessen Verständnis
+   * Entstehende Verwirrungen und Denkhürden direkt erkennen und beseitigen
