@@ -1,5 +1,5 @@
 # Beschreibung Lernabschnitt 1
-# Struktur und <funktion des Mobilfunknetzes
+# Struktur und Funktion des Mobilfunknetzes
 
 
 ##  Was soll gelernt werden?
