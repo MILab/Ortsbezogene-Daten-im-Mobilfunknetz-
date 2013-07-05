@@ -1,4 +1,4 @@
-# Beschreibung Interaktives Puzzle 
+# Abschnitt 3 
 
 
 ##  Was soll gelernt werden?
