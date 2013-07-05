@@ -23,5 +23,8 @@
 
 ## Unterrichtsmethoden
 
+* feste Reihenfolge der Aufträge, ausgehend von den Handys. 'Leere' Datenpakte sind zunächst den Handys zugeordnet
+* Basisstationen sind besetzt und schicken Datenpakete, die nach Handys in ihrem Bereich fragen
+
 
 ## Diagnose
