@@ -4,7 +4,7 @@
 ##  Was soll gelernt werden?
    * Aufbau und Bestandteile des Mobilfunknetzes (vereinfachtes Schema)
    * Verbindungsaufbau /Kommunikation zweier Mobiltelefone
-   * 
+
    
 ## Wozu soll es (an dieser Stelle) gelernt werden?
    * Erkenntnis, dass das Mobilfunknetz an zentraler Stelle wissen muss, an welcher Basissation die Handys angemeldet sind
