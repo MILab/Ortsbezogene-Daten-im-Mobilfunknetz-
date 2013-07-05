@@ -1,4 +1,4 @@
-# Beschreibung Interaktives Puzzle 
+# Beschreibung Visualisierung von Ortsdaten 
 
 Leitfragen der Stunden:
 
@@ -35,7 +35,9 @@ Leitfragen der Stunden:
 
 
 ## Vorasusetzungen (techn./ organisatorisch)
-   * 
+   * Processing
+   * Visualisierungsframework (im Repro)
+   * Internetverbindung zur Darsteung der Karten im Browser
    
 
 ## Benötigte Vorkenntnisse
