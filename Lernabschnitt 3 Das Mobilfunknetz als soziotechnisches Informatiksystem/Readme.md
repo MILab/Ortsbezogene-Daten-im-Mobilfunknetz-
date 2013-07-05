@@ -14,53 +14,38 @@
  * Reflexion der eigenen Handlungen
  * Gefahrenerkennung
  * gesellschaftliche Partizipation im eigenen Interesse
- * Hintergrundwissen
+
+## Hintergrundwissen
  * Bundesdatenschutzgesetz
  * Entwicklungspfad des Mobilfunknetzes
  * Datenschutzrichtlinien in Betrieben
- * Vorasusetzungen (techn./ organisatorisch)
+ 
+## Vorraussetzungen (techn./ organisatorisch)
  * Thema komplex
  * Ergebnis schwer evaluierbar
  * Zeitknappheit
  * Beachtung des Beutelsbacher Konsens
+ * Interesse wecken
+ * Lebensrealität in Betracht ziehen
+ 
+## Benötigte Vorkenntnisse
+ * Struktur/Aufbau Mobilfunknetz
+ * Daten fallen an
+ * Kommunikation findet weltweit statt
 
-    Interesse wecken
+## Einflussfaktoren
+ * Vorwissen der SuS bzw. über SuS
+ * Interesse
+ * Zeitdruck
+ * Lernziele
+ * Vorbereitung der Unterrichtenden
+ * äußere Umstände
+ * Aktualitätsbezug
 
-    Lebensrealität in Betracht ziehen
+## Unterrichtsmethoden
+ * Gruppenpuzzle: Erkenntnisgewinn über Sachverhalt, Schnell viel Stoff vermitteln
+ * Debatte: Meinungsfindung und -austausch, Reflexion, Versetzung in andere Rollen, soziale Kompetenzen
 
-Benötigte Vorkenntnisse
-
-    Struktur/Aufbau Mobilfunknetz
-
-    Daten fallen an
-
-    Kommunikation findet weltweit statt
-
-Einflussfaktoren
-
-    Vorwissen der SuS bzw. über SuS
-
-    Interesse
-
-    Zeitdruck
-
-    Lernziele
-
-    Vorbereitung der Unterrichtenden
-
-    äußere Umstände
-
-    Aktualitätsbezug
-
-Unterrichtsmethoden
-
-    Gruppenpuzzle: Erkenntnisgewinn über Sachverhalt, Schnell viel Stoff vermitteln
-
-    Debatte: Meinungsfindung und -austausch, Reflexion, Versetzung in andere Rollen, soziale Kompetenzen
-
-Diagnose
-
-    Provokante Fragen
-
-    interaktive Ergebnissicherung z.B. über Tafel, Beamer
-
+##Diagnose
+ * Provokante Fragen
+ * interaktive Ergebnissicherung z.B. über Tafel, Beamer
