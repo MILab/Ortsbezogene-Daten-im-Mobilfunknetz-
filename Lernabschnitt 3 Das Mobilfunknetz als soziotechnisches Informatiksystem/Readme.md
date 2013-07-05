@@ -11,29 +11,18 @@
 
 ## Wozu soll es (an dieser Stelle) gelernt werden?
 
-    Reflexion der eigenen Handlungen
-
-    Gefahrenerkennung
-
-    gesellschaftliche Partizipation im eigenen Interesse
-
-Hintergrundwissen
-
-    Bundesdatenschutzgesetz
-
-    Entwicklungspfad des Mobilfunknetzes
-
-    Datenschutzrichtlinien in Betrieben
-
-Vorasusetzungen (techn./ organisatorisch)
-
-    Thema komplex
-
-    Ergebnis schwer evaluierbar
-
-    Zeitknappheit
-
-    Beachtung des Beutelsbacher Konsens
+ * Reflexion der eigenen Handlungen
+ * Gefahrenerkennung
+ * gesellschaftliche Partizipation im eigenen Interesse
+ * Hintergrundwissen
+ * Bundesdatenschutzgesetz
+ * Entwicklungspfad des Mobilfunknetzes
+ * Datenschutzrichtlinien in Betrieben
+ * Vorasusetzungen (techn./ organisatorisch)
+ * Thema komplex
+ * Ergebnis schwer evaluierbar
+ * Zeitknappheit
+ * Beachtung des Beutelsbacher Konsens
 
     Interesse wecken
 
