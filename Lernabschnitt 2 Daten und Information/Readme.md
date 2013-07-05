@@ -35,7 +35,7 @@ Leitfragen der Stunden:
 
 
 ## Vorasusetzungen (techn./ organisatorisch)
-   * Processing
+   * [Processing][http://processing.org/download/]
    * Visualisierungsframework (im Repro)
    * Internetverbindung zur Darsteung der Karten im Browser
    
