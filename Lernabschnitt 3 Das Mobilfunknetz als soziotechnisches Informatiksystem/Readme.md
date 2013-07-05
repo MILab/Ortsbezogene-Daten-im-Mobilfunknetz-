@@ -1,16 +1,15 @@
-Beschreibung Lernabschnitt 3 
-Das Mobilfunknetz als soziotechnisches Informatiksystem
-Was soll gelernt werden?
+# Beschreibung Lernabschnitt 3 
+# Das Mobilfunknetz als soziotechnisches Informatiksystem
 
-    Vor- und Nachteile
 
-    Missbrauch und technische Möglichkeiten
+## Was soll gelernt werden?
 
-    gesellschaftliche Auswirkungen
+ * Vor- und Nachteile
+ * Missbrauch und technische Möglichkeiten
+ * gesellschaftliche Auswirkungen
+ * Entwicklungskreislauf: Struktur/Funktion führt zur neuen Ideen/Möglichkeiten, welche zu Weiterentwicklung beitragen.
 
-    Entwicklungskreislauf: Struktur/Funktion führt zur neuen Ideen/Möglichkeiten, welche zu Weiterentwicklung beitragen.
-
-Wozu soll es (an dieser Stelle) gelernt werden?
+## Wozu soll es (an dieser Stelle) gelernt werden?
 
     Reflexion der eigenen Handlungen
 
