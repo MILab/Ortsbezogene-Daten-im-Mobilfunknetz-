@@ -8,8 +8,6 @@ Dieses Werk bzw. Inhalt steht unter einer Creative Commons Namensnennung - Weite
 
 
 
-
-
 Eine Unterrichtsreihe zum Thema „Daten und Informationen“
 Jahrgangstufe 10
 
