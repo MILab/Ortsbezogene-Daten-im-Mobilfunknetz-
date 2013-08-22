@@ -35,14 +35,26 @@ Struktur der Reihe:
 
 
 Schultyp:	alle Schultypen
+
 Klasse:	7-9 (5-6)
-Fachliche Vorkenntnisse:	
+
+Fachliche Vorkenntnisse:
+
+
 Bearbeitungsdauer:	~ 7-8 Unterrichtsstunden
+
+
 Autoren:	Mi.Lab Berlin
-Fassung:	
+
+
+Fassung:
+
+
 Schulerprobung:	ja
 	
-CORE FRAGEN:	
+CORE FRAGEN:
+
+
 Was soll gelernt werden?	
 -	Verstehen, wie das System Mobilfunk funktioniert und wie / welche Daten entstehen
 -	Bestandteile des Mobilfunknetzes kennenlernen 
@@ -55,6 +67,8 @@ Was soll gelernt werden?
 -	Missbrauch und technische Möglichkeiten
 -	gesellschaftliche Auswirkungen
 -	Entwicklungskreislauf: Struktur/Funktion führt zur neuen Ideen/Möglichkeiten, welche zu Weiterentwicklung beitragen.
+
+
 Wozu soll es gelernt werden?	
 -	Verständnis für technische Gegenstände des alltäglichen Gebrauchs 
 -	Angst vor Technik nehmen
@@ -65,12 +79,16 @@ Wozu soll es gelernt werden?
 -	Reflexion der eigenen Handlungen
 -	Gefahrenerkennung
 -	gesellschaftliche Partizipation im eigenen Interesse
-Welches Hintergrundwissen wird benötigt?	
+
+
+elches Hintergrundwissen wird benötigt?	
 -	Detailwissen über alle Bestandteile, verschiedene Netzanbieter, verschiedene Größen der Funkzellen, verschiedenen Sendearten, "volle Bandbreite" entstehender Daten
 -	„Daten und Information“
 -	Bundesdatenschutzgesetz
 -	Entwicklungspfad des Mobilfunknetzes
 -	Datenschutzrichtlinien in Betrieben
+
+
 Welche Voraussetzungen gibt es?	
 -	Komplexität des Themas reduzieren: Modell des Mobilfunknetzes vereinfachen und wichtigste Inhalte vermitteln (Abstrahieren)
 -	nicht alle SuS werden aus Visualisierungen dieselben Informationen ableiten
@@ -78,8 +96,11 @@ Welche Voraussetzungen gibt es?
 -	Visualisierungen sind manipulierend, selbst für die Lehrkraft(!)
 -	Ergebnis schwer evaluierbar
 -	Beachtung des Beutelsbacher Konsens
+
+
 Welche Vorkenntnisse werden benötigt?	
 -	Generell was man mit einem Mobil-Gerät machen kann
+
 
 Einflussfaktoren	
 -	Zeitfaktor
@@ -92,7 +113,11 @@ Einflussfaktoren
 -	Rahmen (Sommeruni oder Schulunterricht)
 -	Räumliche Gegebenheiten (PCs, Raumgröße) 
 -	Aktualitätsbezug (Zeitepoche)
+
+
 Unterrichtsmethoden    Reduziert für Klassenstufe 5-6
+
+
 Diagnose	
 -	Ralley als Überprüfung des vorher Erarbeiteten Wissens und dessen Verständnis
 -	Entstehende Verwirrungen und Denkhürden direkt erkennen und beseitigen
