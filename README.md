@@ -81,7 +81,7 @@ Wozu soll es gelernt werden?
 -	gesellschaftliche Partizipation im eigenen Interesse
 
 
-elches Hintergrundwissen wird benötigt?	
+Welches Hintergrundwissen wird benötigt?	
 -	Detailwissen über alle Bestandteile, verschiedene Netzanbieter, verschiedene Größen der Funkzellen, verschiedenen Sendearten, "volle Bandbreite" entstehender Daten
 -	„Daten und Information“
 -	Bundesdatenschutzgesetz
