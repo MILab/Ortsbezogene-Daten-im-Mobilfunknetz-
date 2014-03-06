@@ -49,3 +49,13 @@
 ##Diagnose
  * Provokante Fragen
  * interaktive Ergebnissicherung z.B. Ã¼ber Tafel, Beamer
+
+##Web-Quellen
+ *  “consolidated.db.”: http://radar.oreilly.com/2011/04/apple-location-tracking.html
+ * iPhoneTracker: http://petewarden.github.io/iPhoneTracker/
+ * Nokia Mobile Data Challenge: https://research.nokia.com/page/12000
+ * The Loss of Location Privacy in the Cellular Age: http://wisl.ece.cornell.edu/wicker/SWicker_CACM_9_12.pdf
+ * Human mobility characterization from cellular network data: http://www.research.att.com/techdocs/TD_100720.pdf
+
+andere:
+ * FAZ, Der gläserne Fahrer Angriff aufs Auto: http://www.faz.net/aktuell/feuilleton/der-glaeserne-fahrer-angriff-aufs-auto-12779186.html?printPagedArticle=true
