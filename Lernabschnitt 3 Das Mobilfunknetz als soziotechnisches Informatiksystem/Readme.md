@@ -5,9 +5,9 @@
 ## Was soll gelernt werden?
 
  * Vor- und Nachteile
- * Missbrauch und technische MÃ¶glichkeiten
+ * Missbrauch und technische Möglichkeiten
  * gesellschaftliche Auswirkungen
- * Entwicklungskreislauf: Struktur/Funktion fÃ¼hrt zur neuen Ideen/MÃ¶glichkeiten, welche zu Weiterentwicklung beitragen.
+ * Entwicklungskreislauf: Struktur/Funktion fährt zur neuen Ideen/Möglichkeiten, welche zu Weiterentwicklung beitragen.
 
 ## Wozu soll es (an dieser Stelle) gelernt werden?
 
@@ -26,24 +26,24 @@
  * Zeitknappheit
  * Beachtung des Beutelsbacher Konsens
  * Interesse wecken
- * LebensrealitÃ¤t in Betracht ziehen
+ * Lebensrealität in Betracht ziehen
  
-## BenÃ¶tigte Vorkenntnisse
+## Benötigte Vorkenntnisse
  * Struktur/Aufbau Mobilfunknetz
  * Daten fallen an
  * Kommunikation findet weltweit statt
 
 ## Einflussfaktoren
- * Vorwissen der SuS bzw. Ã¼ber SuS
+ * Vorwissen der SuS bzw. über SuS
  * Interesse
  * Zeitdruck
  * Lernziele
  * Vorbereitung der Unterrichtenden
- * Ã¤uÃŸere UmstÃ¤nde
+ * Äußere Umstände
  * AktualitÃ¤tsbezug
 
 ## Unterrichtsmethoden
- * Gruppenpuzzle: Erkenntnisgewinn Ã¼ber Sachverhalt, Schnell viel Stoff vermitteln
+ * Gruppenpuzzle: Erkenntnisgewinn über Sachverhalt, Schnell viel Stoff vermitteln
  * Debatte: Meinungsfindung und -austausch, Reflexion, Versetzung in andere Rollen, soziale Kompetenzen
 
 ##Diagnose
@@ -56,6 +56,7 @@
  * Nokia Mobile Data Challenge: https://research.nokia.com/page/12000
  * The Loss of Location Privacy in the Cellular Age: http://wisl.ece.cornell.edu/wicker/SWicker_CACM_9_12.pdf
  * Human mobility characterization from cellular network data: http://www.research.att.com/techdocs/TD_100720.pdf
+ * Video Malte Spitz: http://www.ted.com/talks/malte_spitz_your_phone_company_is_watching
 
 andere:
  * FAZ, Der gläserne Fahrer Angriff aufs Auto: http://www.faz.net/aktuell/feuilleton/der-glaeserne-fahrer-angriff-aufs-auto-12779186.html?printPagedArticle=true
